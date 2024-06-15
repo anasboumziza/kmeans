@@ -1,3 +1,3 @@
-#projet kmeans 
-#realiser par 
+# projet kmeans 
+# realiser par 
 OUAKACH Youssef et Boumziza Anas
